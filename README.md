@@ -12,3 +12,6 @@ Detailed product-wise sales analysis
 Quick comparison through visual highlights and dashboards
 Automated calculations using VLOOKUP and other Excel functions
 Dynamic reporting through Pivot Tables and Slicers
+
+
+<img width="1403" height="702" alt="image" src="https://github.com/user-attachments/assets/1ad57505-7060-482b-a2f8-e258ab806bad" />
